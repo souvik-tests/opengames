@@ -1,5 +1,5 @@
 # OpenGames Directory
-[Download apk⬇️](https://opengames-project.blogspot.com)
+[Download apk⬇️](https://github.com/souvik-tests/opengames/releases/tag/1.0.1)
 ## [Play🏆](https://souvik-tests.github.io/opengames/index.html)
 
 1. [Golgi - hardest game ever!](https://souvik-tests.github.io/opengames/games/Golgi/index.html)
